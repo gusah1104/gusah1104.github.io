@@ -21,7 +21,7 @@ repository               : "gusah1104/gusah1104.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_funny_cat.jpg"
+  avatar           : "profile_funny_cat.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
