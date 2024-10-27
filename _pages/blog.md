@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
@@ -14,7 +14,7 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
----
+--- -->
 
 <div class="post">
 
