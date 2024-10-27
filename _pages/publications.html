@@ -23,14 +23,55 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      
+      <!-- Start of publication entry -->
+      <div class="publication-entry">
+        {% if post.image %}
+          <div class="publication-thumbnail">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="publication-image">
+          </div>
+        {% endif %}
+        
+        <div class="publication-details">
+          <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+          <p><strong>{{ post.venue }}</strong><br>{{ post.date | date: "%B %d, %Y" }}</p>
+          <p>{{ post.excerpt }}</p>
+          {% if post.paperurl %}
+            <p><a href="{{ post.paperurl }}" target="_blank">Read the paper</a></p>
+          {% endif %}
+          {% if post.slidesurl %}
+            <p><a href="{{ post.slidesurl }}" target="_blank">View slides</a></p>
+          {% endif %}
+        </div>
+      </div>
+      <!-- End of publication entry -->
+      
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    
+    <!-- Start of publication entry -->
+    <div class="publication-entry">
+      {% if post.image %}
+        <div class="publication-thumbnail">
+          <img src="{{ post.image }}" alt="{{ post.title }}" class="publication-image">
+        </div>
+      {% endif %}
+      
+      <div class="publication-details">
+        <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+        <p><strong>{{ post.venue }}</strong><br>{{ post.date | date: "%B %d, %Y" }}</p>
+        <p>{{ post.excerpt }}</p>
+        {% if post.paperurl %}
+          <p><a href="{{ post.paperurl }}" target="_blank">Read the paper</a></p>
+        {% endif %}
+        {% if post.slidesurl %}
+          <p><a href="{{ post.slidesurl }}" target="_blank">View slides</a></p>
+        {% endif %}
+      </div>
+    </div>
+    <!-- End of publication entry -->
+    
   {% endfor %}
 {% endif %}
-
-
-
