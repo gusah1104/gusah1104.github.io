@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gusah1104.github.io./sitemap.xml
