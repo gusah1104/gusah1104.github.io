@@ -4,7 +4,7 @@ title: Journey to middle east
 permalink: /travel/
 description: When I was 20 years old, I traveled several countries(mostly middle east) for historical sites, as a big fan of history. This experience ultimately lead me to physics.
 nav: true
-nav_order: 4
+nav_order: 5
 display_categories: [First trip, Second trip, Third trip]
 horizontal: false
 ---
