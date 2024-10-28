@@ -2,9 +2,10 @@
 layout: page
 title: Discrete Diffusion For generating QM9 Molecular skeleton
 description: Apply SOTA discrete diffusion process for generating molecular skeleton using GNNs.
-img: assets/img/3.jpg
+img: assets/img/digress_image.png
 importance: 2
 category: ML
+giscus_comments: true
 redirect: https://gusah1104.github.io/assets/pdf/discrete_diffusion.pdf
 ---
 

@@ -2,9 +2,10 @@
 layout: page
 title: Finetuning LLMs for academic chatbot
 description: Use DPO to finetune zephyr-7b. Also use Quantization and RAG to improve performance.
-img: assets/img/12.jpg
+img: assets/img/roberto_image.png
 importance: 1
 category: ML
+related_publications: true
 redirect: https://gusah1104.github.io/assets/pdf/roberto_final_report.pdf
 ---
 
