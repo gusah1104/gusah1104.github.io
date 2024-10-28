@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: default
+permalink: /assets/pdf/example_pdf.pdf
 title: CV
 nav: true
 nav_order: 1
@@ -9,8 +9,17 @@ toc:
   sidebar: left
 ---
 
-<meta http-equiv="refresh" content="0; url={{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">
-<p>If you are not redirected, <a href="{{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">click here to view the CV PDF</a>.</p>
+<!-- ---
+layout: cv
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 1
+cv_pdf: example_pdf.pdf
+toc:
+  sidebar: left
+--- -->
+
 
 
 
