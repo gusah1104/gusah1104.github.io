@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Discrete Diffusion For generating QM9 Molecular skeleton
+description: Apply SOTA discrete diffusion process for generating molecular skeleton using GNNs.
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: ML
 giscus_comments: true
 ---
 

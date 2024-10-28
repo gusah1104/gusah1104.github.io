@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Beirut
+description: a project that redirects to another website
+img: assets/img/7.jpg
 importance: 3
-category: fun
+category: Lebannon
 ---
 
 Every project has a beautiful feature showcase page.

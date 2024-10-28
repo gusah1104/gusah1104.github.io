@@ -1,37 +1,37 @@
 ---
 layout: page
-title: travel
+title: Journey to middle east
 permalink: /travel/
-description: A growing collection of your cool projects.
+description: When I was 20 years old, I traveled several countries(mostly middle east) for historical sites, as a big fan of history. This experience ultimately lead me to physics.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Turkey, Egypt, Lebannon, Jordan, Israel, Spain, Portugal, Morocco, Uzbekistan, Azerbaijan, Iran, Germany, Russia]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/travel.md -->
+<div class="travel">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
+  <!-- Display categorized travel -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category" style="color: black;">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  {% assign categorized_travel = site.travel | where: "category", category %}
+  {% assign sorted_travel = categorized_travel | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+    {% for project in sorted_travel %}
+      {% include travel_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
+    {% for project in sorted_travel %}
+      {% include travel.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -39,9 +39,9 @@ horizontal: false
 
 {% else %}
 
-<!-- Display projects without categories -->
+<!-- Display travel without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_travel = site.travel | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -49,15 +49,15 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+    {% for project in sorted_travel %}
+      {% include travel_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
+    {% for project in sorted_travel %}
+      {% include travel.liquid %}
     {% endfor %}
   </div>
   {% endif %}

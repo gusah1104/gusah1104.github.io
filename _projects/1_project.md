@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Finetuning LLMs for academic chatbot
+description: Use DPO to finetune zephyr-7b. Also use Quantization and RAG to improve performance.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: ML
 related_publications: true
 ---
 
