@@ -5,7 +5,7 @@ description: Use DPO to finetune zephyr-7b. Also use Quantization and RAG to imp
 img: assets/img/12.jpg
 importance: 1
 category: ML
-related_publications: true
+redirect: https://gusah1104.github.io/assets/pdf/roberto_final_report.pdf
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: Apply SOTA discrete diffusion process for generating molecular skel
 img: assets/img/3.jpg
 importance: 2
 category: ML
-giscus_comments: true
+redirect: https://gusah1104.github.io/assets/pdf/discrete_diffusion.pdf
 ---
 
 Every project has a beautiful feature showcase page.
