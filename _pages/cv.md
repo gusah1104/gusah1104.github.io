@@ -9,8 +9,8 @@ toc:
   sidebar: left
 ---
 
-<meta http-equiv="refresh" content="0; url={{ example_pdf.pdf | prepend: '/assets/pdf/' | relative_url }}">
-<p>If you are not redirected, <a href="{{ example_pdf.pdf  | prepend: '/assets/pdf/' | relative_url }}">click here to view the CV PDF</a>.</p>
+<meta http-equiv="refresh" content="0; url={{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">
+<p>If you are not redirected, <a href="{{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">click here to view the CV PDF</a>.</p>
 
 
 
