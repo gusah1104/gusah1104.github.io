@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some projects I've done for classes.
+description: Here are some projects I've done for classes. Click for final report pdf.
 nav: true
 nav_order: 3
 display_categories: [ML]
