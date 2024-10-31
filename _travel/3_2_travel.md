@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is death?
-description: Iran
+description: Tower of silence, Yazd
 img: assets/img/what_is_death.jpg
 importance: 3
 category: Third trip

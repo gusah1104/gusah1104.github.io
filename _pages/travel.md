@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journey to middle east
+title: Personal
 permalink: /travel/
 description: When I was 20 years old, I traveled several countries(mostly middle east) for historical sites, as a big fan of history. This experience ultimately lead me to physics.
 nav: true
@@ -8,6 +8,8 @@ nav_order: 5
 display_categories: [First trip, Second trip, Third trip]
 horizontal: false
 ---
+<!-- ![Description of Image](/assets/img/full_trip.png) -->
+<img src="/assets/img/full_trip.png" alt="Description of Image" width="670" />
 
 <!-- pages/travel.md -->
 <div class="travel">

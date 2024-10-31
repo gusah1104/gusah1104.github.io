@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is ethnicity?
-description: Uzbekistan, Azerbaijan
+description: Afrasiyab, Samarkand
 img: assets/img/what_is_ethnicity.jpg
 importance: 2
 category: Third trip

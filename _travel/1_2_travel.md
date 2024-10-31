@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is Religion?
-description: Israel
+description: Western Wall, Jerusalem
 img: assets/img/what_is_religion.jpg
 importance: 3
 category: First trip

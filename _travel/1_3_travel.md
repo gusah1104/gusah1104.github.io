@@ -1,7 +1,7 @@
 ---
 layout: page
-title: From Byzantium to Ottoman
-description: Turkey
+title: Byzantium to Ottoman
+description: Constantinian Walls, Istanbul
 img: assets/img/turkey_greece.jpg
 importance: 4
 category: First trip

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Al-Andalus
-description: Spain, Morocco
+description: Medina Azahara, Cordoba
 img: assets/img/al_andalus.jpg
 importance: 2
 category: Second trip

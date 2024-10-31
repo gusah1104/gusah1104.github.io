@@ -18,7 +18,7 @@ nav_order: 4
 
   <div class="course-item">
     <h2 class="course-title" style="font-size: 1.5em; font-weight: bold;">Statistical Physics of Computation</h2>
-    <p class="course-description" style="font-size: 1.1em;">The students understand tools from the statistical physics of disordered systems, and apply them to study computational and statistical problems in graph theory, discrete optimisation, inference and machine learning. Specifically,statistical physics approach to problems ranging from graph theory (e.g. community detection) to discrete optimization and constraint satisfaction (e.g. satisfiability or coloring) and to inference and machine learning problems (learning in neural networks, clustering of data and of networks, compressed sensing or sparse linear regression, low-rank matrix factorization) is dealt. This is done by theoretical methods of analysis (replica, cavity, ...) algorithms (message passing, spectral methods, etc)</p>
+    <p class="course-description" style="font-size: 1.1em;">Learn statistical physics approach to problems ranging from graph theory (e.g. community detection) to discrete optimization and constraint satisfaction (e.g. satisfiability or coloring) and to inference and machine learning problems (learning in neural networks, clustering of data and of networks, compressed sensing or sparse linear regression, low-rank matrix factorization) is dealt. This is done by theoretical methods of analysis (replica, cavity, ...) algorithms (message passing, spectral methods, etc)</p>
     <p class="course-credits" style="font-weight: bold;">Credits: 6/6</p>
   </div>
   <hr>

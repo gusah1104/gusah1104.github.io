@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Is everything just like Morning Dew?
-description: Egypt, Lebannon, Jordan
+title: Feels like morning dew
+description: Carnak Temple, Luxor
 img: assets/img/morning_dew.jpg
 importance: 2
 category: First trip

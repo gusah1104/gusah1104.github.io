@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Age of Discovery
-description: Portugal, Spain
+description: Belem Tower, Lisbon
 img: assets/img/age_of_discovery.jpg
 importance: 3
 category: Second trip

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corona, Racism
-description: Iran
+title: Covid, Racism
+description: 
 img: assets/img/corona.jpg
 importance: 4
 category: Third trip
