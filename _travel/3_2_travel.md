@@ -8,9 +8,6 @@ category: Third trip
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
 
 <div class="row">
@@ -25,13 +22,16 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left and Middle is Tower of silence, in Yazd. On the right is holy fire of Zoroaster temple in Yazd.
 </div>
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The most fascinating place I visited in Iran was the Tower of Silence in Yazd. The thought that human corpses were once actually left here to be consumed by birds was both eerie and captivating. During the COVID era, I was the only tourist there, and the sense of solitude—feeling as if I were the only person within a 10-kilometer radius—sent shivers down my spine.
+
+In the end, everyone is destined to die. It made me ponder: how should I live the rest of my life?
+
+이란에서 가장 흥미로웠던 곳은 야즈드의 조장터였다. 이곳에서 실제로 사람의 시체가 새에게 뜯어먹혔다니. 코로나 시기라 관광객이 오직 나 혼자이고, 주변 10km에 사람이 나 밖에 없는 것 같은 느낌이 나를 오싹하게 했다. 
+결국 모든 사람은 죽게 마련. 나는 남은 인생을 어떻게 살아가면 좋을까?
 
 
 {% raw %}

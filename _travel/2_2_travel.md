@@ -21,9 +21,12 @@ The term "Age of Discovery" carries a romantic allure. My interest in this era b
     </div>
 </div>
 <div class="caption">
-    On the left is indio archive in Seville. On the right is 
+    On the left is indio archive in Seville. On the right is Guadalquivir River of Seville.
 </div>
 
+Seville once housed the Casa de Contratación, which managed all trade with the New World (now the Archive of the Indies). At the time, the Guadalquivir River had a much greater flow, allowing massive galleons that sailed the Atlantic and Pacific to reach the heart of Seville.
+
+세비야는 한때 신대륙의 모든 무역을 총괄한 교역소가 있었다(지금은 인디오 고문서 박물관이다). 당시엔 과달키비르 강의 유량이 많아, 대서양과 태평양을 누빈 거대한 갈레온들이 세비야 도심까지 드나들었다고한다.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,13 +37,13 @@ The term "Age of Discovery" carries a romantic allure. My interest in this era b
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left is Cape Roca near Syntra, On the right is Beautiful scenary of Lisbon along side with Tagus river.
 </div>
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Near Lisbon, there is a cape called Cabo da Roca. Standing there, gazing out at the Atlantic Ocean, one can sense the destiny of the Iberian Peninsula's people to venture out to sea. What dreams did those men have as they crossed the vast ocean into the unknown world?
+
+리스본 근교에는 카보데 로카라는 곶이 있다. 이 곳에서 대서양을 보고 있다보면, 바다로 나가야하는 이베리아 반도 사람들의 운명이 보인다. 대양을 넘어 미지의 세계로 나아가는 남자들에겐 어떤 꿈이 있었을까
 
 
 
