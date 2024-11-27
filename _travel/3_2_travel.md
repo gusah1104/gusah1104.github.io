@@ -30,8 +30,7 @@ The most fascinating place I visited in Iran was the Tower of Silence in Yazd. T
 
 In the end, everyone is destined to die. It made me ponder: how should I live the rest of my life?
 
-이란에서 가장 흥미로웠던 곳은 야즈드의 조장터였다. 이곳에서 실제로 사람의 시체가 새에게 뜯어먹혔다니. 코로나 시기라 관광객이 오직 나 혼자이고, 주변 10km에 사람이 나 밖에 없는 것 같은 느낌이 나를 오싹하게 했다. 
-결국 모든 사람은 죽게 마련. 나는 남은 인생을 어떻게 살아가면 좋을까?
+
 
 
 {% raw %}
